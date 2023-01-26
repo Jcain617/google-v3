@@ -62,10 +62,11 @@ body {
   padding: 0;
 }
 
-#btn {
+.btn {
   display: flex;
   justify-content: center;
   height: 36px;
+  position: relative;
 }
 
 .p {
